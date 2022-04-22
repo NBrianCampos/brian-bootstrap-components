@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-container{
+    background-color: rgb(42, 40, 48);
+    border: 1px solid rgb(234, 234, 234);
+    margin-top: 20px;
+    padding: 20px 0 0;
+
+   
+}
+
+.main-container .ttl{
+    color: rgb(246, 246, 246);
+    font-size: 0.7em;
+}
+
+.main-container .box{
+    padding: 30px;
+    background-color: rgb(244, 244, 244);
+}
+
+
+.main-container .box:first-child{
+    background-color: antiquewhite;
+}
